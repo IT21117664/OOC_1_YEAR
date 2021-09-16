@@ -1,0 +1,5 @@
+﻿  Version C.cpp
+C:\Users\RMB\source\repos\Version C\Version C\Version C.cpp(13,6): warning C4101: 'l3': unreferenced local variable
+C:\Users\RMB\source\repos\Version C\Version C\Version C.cpp(10,6): warning C4101: 'l1': unreferenced local variable
+C:\Users\RMB\source\repos\Version C\Version C\Version C.cpp(12,6): warning C4101: 'l2': unreferenced local variable
+  Version C.vcxproj -> C:\Users\RMB\source\repos\Version C\Debug\Version C.exe
