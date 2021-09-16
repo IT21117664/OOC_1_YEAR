@@ -1,0 +1,7 @@
+﻿  Student.cpp
+  Version A.cpp
+C:\Users\RMB\source\repos\Version A\Version A\Version A.cpp(35,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RMB\source\repos\Version A\Version A\Version A.cpp(36,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RMB\source\repos\Version A\Version A\Version A.cpp(37,95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Version A.vcxproj -> C:\Users\RMB\source\repos\Version A\Debug\Version A.exe
